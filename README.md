@@ -1,6 +1,7 @@
 # Datafest-2017-Expedia
 
-In the Datafest 2017 competition - a celebration of data in which teams of undergraduates work within 48 hours to find and share meaning in a large, rich, and complex dataset, I worked in the team of 4 UCI students to extract meaningful findings in the Expedia data on flights and hotel booking. 
+In the Datafest 2017 competition - a celebration of data in which teams of undergraduates work within 48 hours to find and share meaning in a large, rich, and complex dataset, I worked in the team of 4 UCI students to extract meaningful findings in the Expedia data on flights and hotel booking using K-means clustering and ultimately recommended targeted user segmentation for product and marketing stratergies.
+. 
 
 ## Cleaning data
 We used iPython Notebook to clean and manipulate data.
